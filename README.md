@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Yatin</h1>
 <p align="center">
-  <em>Cybersecurity Enthusiast  • Tech Explorer • Aspiring Ethical Hacker</em>
+  <em>Cybersecurity Enthusiast • Tech Explorer • Aspiring Ethical Hacker</em>
 </p>
 
 ---
@@ -43,7 +43,17 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yatinannam/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="mailto:ninjayatin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://yatinannam.github.io/portfolio-site/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
+  <a href="https://linkedin.com/in/yatinannam/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:ninjayatin@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail"/>
+  </a>
+
+  <a href="https://yatinannam.github.io/portfolio-site/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=webflow" height="30" alt="Portfolio"/>
+  </a>
 </p>
+
+---
