@@ -32,11 +32,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yatinannam&show_icons=true&theme=tokyonight&hide_border=false" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yatinannam&theme=tokyonight&hide_border=false" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatinannam&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+</div>
 
 ---
 
