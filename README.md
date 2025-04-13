@@ -45,5 +45,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/yatinannam/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="mailto:ninjayatin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://yatinannam.github.io/portfolio-site/"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
+  <a href="https://yatinannam.github.io/portfolio-site/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
 </p>
