@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Yatin</h1>
+<p align="center">
+  <em>Cybersecurity Enthusiast  • Tech Explorer • Aspiring Ethical Hacker</em>
+</p>
 
-<!--
-**yatinannam/yatinannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🎓 First-year student specializing in **Cybersecurity**
+- 🧑‍💻 Exploring the world of tech: from **coding** to **ethical hacking**
+- 🌦️ Built a **Weather Forecast Web App**
+- 💳 Created a **Credit Card Scam Detector**
+- ⚡ Currently experimenting with **AI tools** and open-source projects
+- 🚀 Curious about LLMs, cloud, and secure systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yatinannam&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yatinannam&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatinannam&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yatinannam/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="mailto:ninjayatin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="[https://your-portfolio.com](https://yatinannam.github.io/portfolio-site/)"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
+</p>
