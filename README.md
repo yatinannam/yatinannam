@@ -7,11 +7,13 @@
 
 ### 🧠 About Me
 - 🎓 First-year student specializing in **Cybersecurity**
-- 🧑‍💻 Exploring the world of tech: from **coding** to **ethical hacking**
+- 🧑‍💻 Exploring everything from **ethical hacking** to **AI development**
 - 🌦️ Built a **Weather Forecast Web App**
-- 💳 Created a **Credit Card Scam Detector**
-- ⚡ Currently experimenting with **AI tools** and open-source projects
-- 🚀 Curious about LLMs, cloud, and secure systems
+- 💳 Developed a **Credit Card Scam Detector using Machine Learning**
+- 🔐 Created a **Secure File Sharing System** with AES encryption
+- 🤖 Designed a **Rule-Based Chatbot** using Python
+- ❌⚪ Built a **Tic-Tac-Toe Game with AI (Minimax Algorithm)**
+- 🚀 Currently exploring LLMs, cloud security, and open-source contributions
 
 ---
 
@@ -36,9 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yatinannam&show_icons=true&theme=tokyonight&hide_border=false" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yatinannam&theme=tokyonight&hide_border=false" />
-</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatinannam&layout=compact&theme=tokyonight&hide_border=false" />
@@ -49,17 +48,9 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yatinannam/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:ninjayatin@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail"/>
-  </a>
-
-  <a href="https://yatinannam.github.io/portfolio-site/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=webflow" height="30" alt="Portfolio"/>
-  </a>
+  <a href="https://linkedin.com/in/yatinannam/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/></a>
+  <a href="mailto:ninjayatin@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail"/></a>
+  <a href="https://yatinannam.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="30" alt="Portfolio"/></a>
 </p>
 
 ---
