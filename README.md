@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 First-year student specializing in **Cybersecurity**
+- 🎓 Second-year student specializing in **Cybersecurity**
 - 🧑‍💻 Exploring everything from **ethical hacking** to **AI development**
 - 🌦️ Built a **Weather Forecast Web App**
 - 💳 Developed a **Credit Card Scam Detector using Machine Learning**
