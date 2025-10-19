@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 
 - 🎓 **Cybersecurity Student** with a strong focus on ethical hacking, digital forensics, and AI-driven defense solutions   
 - 🔐 Developed a **Secure File Sharing System (Flask + AES Encryption)** ensuring data confidentiality and integrity  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,html,css,react,nodejs,flask,mysql,git,github,docker,linux,vscode,tensorflow,pytorch,threejs,mongodb,vite,&perline=4" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yatinannam&show_icons=true&theme=radical" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:ninjayatin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
