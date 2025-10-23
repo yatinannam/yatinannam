@@ -40,6 +40,12 @@
 
 ---
 
+### Badges
+
+[![An image of @yatinannam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yatinannam)](https://holopin.io/@yatinannam#)
+
+---
+
 ### Connect With Me
 
 <p align="center">
