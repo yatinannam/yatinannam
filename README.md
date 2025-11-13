@@ -38,7 +38,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yatinannam&theme=radical" />
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=yatinannam&theme=radical&no-frame=false&no-bg=false&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=yatinannam&theme=radical&no-frame=false&no-bg=false&margin-w=6)
 
 ---
 
