@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&duration=4000&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Yatin!;Cybersecurity+Enthusiast;Tech+Explorer;Aspiring+Ethical+Hacker&color=20E4C7%2CF20CE0%2CFFA500%2C00FFFF" alt="Animated intro" />
-</p><br>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yatinannam&query=$.public_repos&label=Repositories&color=blue&style=for-the-badge">
