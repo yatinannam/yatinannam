@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yatinannam&query=$.public_repos&label=Repositories&color=blue&style=for-the-badge">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yatinannam&query=$.followers&label=Followers&color=blue&style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=yatinannam&style=for-the-badge&color=blue">
 <img src="https://github-readme-badge.peerlist.io/api/yatinannam?style=for-the-badge">
 </p>
 
