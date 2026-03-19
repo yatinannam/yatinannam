@@ -10,15 +10,13 @@
 
 ---
 
-### About Me  
+### About Me
 
-- **Cybersecurity Student** with a strong focus on ethical hacking, digital forensics, and AI-driven defense solutions   
-- Developed a **Secure File Sharing System (Flask + AES Encryption)** ensuring data confidentiality and integrity  
-- Designed a **Phishing Awareness Simulation (Laravel)** to evaluate user awareness and enhance organizational security
-- Built a **Credit Card Scam Detection System (Machine Learning)** to predict and prevent fraudulent transactions 
-- Created intelligent applications — from an **AI-powered Tic-Tac-Toe (Minimax Algorithm)** to a **Rule-Based Chatbot in Python**  
-- Explored full-stack and data-focused projects like **Weather Forecast App**, **Stock Price Predictor** and **F1 Data Visualizer Dashboard**  
-- Continuously learning **Cloud Security, LLMs**, and contributing to **Open-Source Projects**  
+- Cybersecurity student focused on building secure, reliable and scalable software
+- Experienced in full-stack web development, automation and AI-driven solutions
+- Developed projects using JavaScript/TypeScript, JavaFX, and modern development tools
+- Interested in ethical hacking, cloud security, and deeper systems-level understanding
+- Active in open source and consistently exploring with new technologies
 
 ---
 
