@@ -23,7 +23,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,html,css,react,nodejs,flask,mysql,git,github,docker,linux,vscode,tensorflow,pytorch,threejs,mongodb,vite,ruby,nextjs&perline=4" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,swift,html,css,react,nodejs,supabase,mysql,git,github,docker,kubernetes,pytorch,threejs,mongodb,vite,ruby,nextjs,expressjs&perline=6" />
 </p>
 
 ---
