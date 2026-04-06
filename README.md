@@ -5,7 +5,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yatinannam&query=$.public_repos&label=Repositories&color=blue&style=for-the-badge">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yatinannam&query=$.followers&label=Followers&color=blue&style=for-the-badge">
-<img src="https://github-readme-badge.peerlist.io/api/yatinannam?style=for-the-badge">
+<a href="https://leetcode.com/yatinannam/">
+  <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-blue?style=for-the-badge&logo=leetcode" />
+</a>
 </p>
 
 ---
