@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&duration=4000&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Yatin!;Web+Developer;Tech+Explorer;Aspiring+Ethical+Hacker&color=20E4C7%2CF20CE0%2CFFA500%2C00FFFF" alt="Animated intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&duration=3000&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Yatin!;Full+Stack+Developer;Cybersecurity+%26+AI&color=20E4C7%2CF20CE0%2CFFA500%2C00FFFF" alt="Animated intro" />
 </p>
 
 <p align="center">
@@ -33,18 +33,19 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatinannam&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yatinannam&theme=radical&name=yatinannam" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yatinannam&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yatinannam&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yatinannam&theme=radical" />
-</p>
+### Trophies
+<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=yatinannam&theme=radical&margin-w=6)
+<img src="https://github-trophies.vercel.app/?username=yatinannam&theme=radical&margin-w=6" />
+
+</div>
 
 ---
 
