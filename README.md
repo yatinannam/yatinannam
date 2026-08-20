@@ -40,6 +40,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yatinannam&theme=radical" />
 </p>
 
+---
+
 ### Trophies
 <div align="center">
 
